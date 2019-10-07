@@ -9,7 +9,7 @@ To join to the list of contributors you just need to do this simple steps:
 
   `Name - [username](link to your github profile)`
   
-  Replace use username with your GitHub username (inside the square bracket)and a link to that username by adding link in an adjacent bracket.
+  Replace Name with your name & username with your GitHub username (inside the square bracket[])and a link to that username by adding link in an adjacent bracket().
 
 * Commit your changes
 * Create a new PR
