@@ -1,5 +1,5 @@
 # COET-localhackday
-Introducing people to open source contribution.
+A list of open source contributors at our college
 
 
 # Joining the list
@@ -14,4 +14,7 @@ To join to the list of contributors you just need to do this simple steps:
 * Commit your changes
 * Create a new PR
 
-Happy hacking!
+
+
+
+Add your projects under the project folder.
