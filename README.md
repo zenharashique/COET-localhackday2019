@@ -1,4 +1,4 @@
-# COET-localhackday
+# COET-localhackday2019
 A list of open source contributors at our college
 
 
